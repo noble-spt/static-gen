@@ -1,0 +1,418 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should render correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="App"
+      >
+        <div
+          class="makeStyles-grow-6"
+        >
+          <header
+            class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorTransparent MuiPaper-elevation4"
+            style="box-shadow: none;"
+          >
+            <div
+              class="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+            >
+              <div
+                class="makeStyles-grow-6"
+              />
+              <div
+                class="makeStyles-sectionDesktop-10"
+              >
+                <button
+                  class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-buttons-12 MuiButton-colorInherit"
+                  style="margin-right: 90px;"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiButton-label"
+                  >
+                    <p
+                      class="MuiTypography-root MuiTypography-body1"
+                    >
+                      Categories
+                    </p>
+                  </span>
+                </button>
+                <button
+                  class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-buttons-12 MuiButton-colorInherit"
+                  style="margin-right: 90px;"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiButton-label"
+                  >
+                    <p
+                      class="MuiTypography-root MuiTypography-body1"
+                    >
+                      Tags
+                    </p>
+                  </span>
+                </button>
+                <button
+                  aria-controls="primary-search-account-menu"
+                  aria-haspopup="true"
+                  aria-label="account of current user"
+                  class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-buttons-12 MuiButton-colorInherit"
+                  edge="end"
+                  style="margin-right: 90px;"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiButton-label"
+                  >
+                    <p
+                      class="MuiTypography-root MuiTypography-body1"
+                    >
+                      Contact
+                    </p>
+                  </span>
+                </button>
+              </div>
+              <div
+                class="makeStyles-sectionMobile-11"
+              >
+                <button
+                  aria-controls="primary-search-account-menu-mobile"
+                  aria-haspopup="true"
+                  aria-label="show more"
+                  class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-buttons-12 MuiButton-colorInherit"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiButton-label"
+                  >
+                    <p
+                      class="MuiTypography-root MuiTypography-body1"
+                    >
+                      |||
+                    </p>
+                  </span>
+                </button>
+              </div>
+            </div>
+          </header>
+        </div>
+        <div
+          class="MuiGrid-root App-root-1 MuiGrid-container MuiGrid-justify-xs-center"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div />
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-5"
+          >
+            <div>
+              <div
+                class="markdown-body"
+              >
+                <div
+                  class="makeStyles-markdownText-14"
+                />
+              </div>
+            </div>
+            <p
+              class="App-commentHeader-4"
+            >
+              Try adding a comment in 
+              <span>
+                <a
+                  href="https://github.com/akhil-ghatiki/akhil-ghatiki.github.io/issues/undefined"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  this issue
+                </a>
+              </span>
+               and it should show up in the comments below
+            </p>
+            <h6
+              class="MuiTypography-root App-commentHeader-4 MuiTypography-h6"
+            >
+              Comments:
+            </h6>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      aria-hidden="true"
+      class="MuiPopover-root"
+      id="primary-search-account-menu-mobile"
+      role="presentation"
+      style="position: fixed; z-index: 1300; right: 0px; bottom: 0px; top: 0px; left: 0px; visibility: hidden;"
+    >
+      <div
+        data-test="sentinelStart"
+        tabindex="0"
+      />
+      <div
+        class="MuiPaper-root MuiMenu-paper MuiPopover-paper MuiPaper-elevation8 MuiPaper-rounded"
+        style="opacity: 0; transform: scale(0.75, 0.5625); visibility: hidden;"
+        tabindex="-1"
+      >
+        <ul
+          class="MuiList-root MuiMenu-list MuiList-padding"
+          role="menu"
+          tabindex="-1"
+        >
+          <li
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root makeStyles-buttons-12 MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+            role="menuitem"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body1"
+            >
+              Categories
+            </p>
+          </li>
+          <li
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root makeStyles-buttons-12 MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+            role="menuitem"
+            tabindex="-1"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body1"
+            >
+              Tags
+            </p>
+          </li>
+          <li
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root makeStyles-buttons-12 MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+            role="menuitem"
+            tabindex="-1"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body1"
+            >
+              Contact
+            </p>
+          </li>
+        </ul>
+      </div>
+      <div
+        data-test="sentinelEnd"
+        tabindex="0"
+      />
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="App"
+    >
+      <div
+        class="makeStyles-grow-6"
+      >
+        <header
+          class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorTransparent MuiPaper-elevation4"
+          style="box-shadow: none;"
+        >
+          <div
+            class="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+          >
+            <div
+              class="makeStyles-grow-6"
+            />
+            <div
+              class="makeStyles-sectionDesktop-10"
+            >
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-buttons-12 MuiButton-colorInherit"
+                style="margin-right: 90px;"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body1"
+                  >
+                    Categories
+                  </p>
+                </span>
+              </button>
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-buttons-12 MuiButton-colorInherit"
+                style="margin-right: 90px;"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body1"
+                  >
+                    Tags
+                  </p>
+                </span>
+              </button>
+              <button
+                aria-controls="primary-search-account-menu"
+                aria-haspopup="true"
+                aria-label="account of current user"
+                class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-buttons-12 MuiButton-colorInherit"
+                edge="end"
+                style="margin-right: 90px;"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body1"
+                  >
+                    Contact
+                  </p>
+                </span>
+              </button>
+            </div>
+            <div
+              class="makeStyles-sectionMobile-11"
+            >
+              <button
+                aria-controls="primary-search-account-menu-mobile"
+                aria-haspopup="true"
+                aria-label="show more"
+                class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-buttons-12 MuiButton-colorInherit"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body1"
+                  >
+                    |||
+                  </p>
+                </span>
+              </button>
+            </div>
+          </div>
+        </header>
+      </div>
+      <div
+        class="MuiGrid-root App-root-1 MuiGrid-container MuiGrid-justify-xs-center"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <div />
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-5"
+        >
+          <div>
+            <div
+              class="markdown-body"
+            >
+              <div
+                class="makeStyles-markdownText-14"
+              />
+            </div>
+          </div>
+          <p
+            class="App-commentHeader-4"
+          >
+            Try adding a comment in 
+            <span>
+              <a
+                href="https://github.com/akhil-ghatiki/akhil-ghatiki.github.io/issues/undefined"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                this issue
+              </a>
+            </span>
+             and it should show up in the comments below
+          </p>
+          <h6
+            class="MuiTypography-root App-commentHeader-4 MuiTypography-h6"
+          >
+            Comments:
+          </h6>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <div />
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

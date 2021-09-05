@@ -1,0 +1,9 @@
+.App {
+  background-color: #fffffc;
+  height: 100vh;
+}
+
+.image {
+  width: 100vw;
+  height: 360px;
+}
